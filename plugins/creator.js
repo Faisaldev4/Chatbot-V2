@@ -1,0 +1,17 @@
+/*
+
+
+©CHATBOT MD 2023
+
+ * yt: @chatbotmd
+ * wa: 6283134409906
+
+
+Jangan di hapus creatornya kack
+Saya capek ngetik kode 
+
+"Wahai orang-orang yang beriman, mengapakah kamu mengatakan sesuatu yang tidak kamu kerjakan?
+Amat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan."
+(QS ash-Shaff: 2-3).
+*/
+function _0x48fd(){const _0x356a2a=['4lbjjEv','sender','*,\x20Nih\x20Owner\x20*','sendMessage','193506ppvGcv','tags','717064GwYMuF','3167030nMhlRo','chat','user','6969aLimkP','creator','exports','*\x20kak','getName','split','parseMention','35dqRaPX','owner','help','reply','jid','35208eITrHE','3419WSxYFd','mentionedJid','11OMgYJG','BEGIN:VCARD\x0aVERSION:3.0\x0aN:WhatsApp:Faisaldev_\x0aNICKNAME:👑\x20Developer\x0aORG:Faisaldev_\x0aTITLE:soft\x0aitem1.TEL;waid=6283134409906:+62\x20831-3440-9906\x0aitem1.X-ABLabel:📞\x20Nomor\x20Owner\x0aitem2.URL:https://www.youtube.com/@chatbotide\x0aitem2.X-ABLabel:💬\x20More\x0aitem3.EMAIL;type=INTERNET:faisaldev.ux@gmail.com\x0aitem3.X-ABLabel:💌\x20Mail\x20Owner\x20ChatBot\x0aitem4.ADR:;;🇮🇩\x20Indonesia;;;;\x0aitem4.X-ABADR:💬\x20More\x0aitem4.X-ABLabel:📍\x20Lokasi\x20Saya\x0aBDAY;value=date:🐦\x2021-12-20**\x0aEND:VCARD','18NKfOUd','112gALKkR','282015TyzGNT','550298qhpdRM','fkontak'];_0x48fd=function(){return _0x356a2a;};return _0x48fd();}const _0x2277ba=_0x188a;function _0x188a(_0x30b087,_0x56dde9){const _0x48fdbb=_0x48fd();return _0x188a=function(_0x188a69,_0x477f6b){_0x188a69=_0x188a69-0xe6;let _0x3667e5=_0x48fdbb[_0x188a69];return _0x3667e5;},_0x188a(_0x30b087,_0x56dde9);}(function(_0x4c9d00,_0x5bdaf3){const _0x8bff5=_0x188a,_0x39c6b0=_0x4c9d00();while(!![]){try{const _0x4bd11d=-parseInt(_0x8bff5(0x104))/0x1+parseInt(_0x8bff5(0x102))/0x2*(-parseInt(_0x8bff5(0xf0))/0x3)+parseInt(_0x8bff5(0xe6))/0x4*(-parseInt(_0x8bff5(0x103))/0x5)+-parseInt(_0x8bff5(0xea))/0x6*(-parseInt(_0x8bff5(0xf7))/0x7)+-parseInt(_0x8bff5(0xec))/0x8*(parseInt(_0x8bff5(0x101))/0x9)+parseInt(_0x8bff5(0xed))/0xa*(parseInt(_0x8bff5(0xff))/0xb)+-parseInt(_0x8bff5(0xfc))/0xc*(-parseInt(_0x8bff5(0xfd))/0xd);if(_0x4bd11d===_0x5bdaf3)break;else _0x39c6b0['push'](_0x39c6b0['shift']());}catch(_0x4e09e8){_0x39c6b0['push'](_0x39c6b0['shift']());}}}(_0x48fd,0x516e9));let handler=async(_0x1c14f0,{conn:_0x45ff2d,usedPrefix:_0x343968,text:_0x5aa9a4,args:_0x4f004e,command:_0xbb283a})=>{const _0x1a83fd=_0x188a;let _0x1b1702=_0x1c14f0[_0x1a83fd(0xfe)]&&_0x1c14f0[_0x1a83fd(0xfe)][0x0]?_0x1c14f0[_0x1a83fd(0xfe)][0x0]:_0x1c14f0['fromMe']?_0x45ff2d[_0x1a83fd(0xef)][_0x1a83fd(0xfb)]:_0x1c14f0[_0x1a83fd(0xe7)],_0x27ac7e=await _0x45ff2d[_0x1a83fd(0xf4)](_0x1b1702),_0x40c8ce=_0x1a83fd(0x100);const _0x128ca5=await _0x45ff2d[_0x1a83fd(0xe9)](_0x1c14f0[_0x1a83fd(0xee)],{'contacts':{'displayName':wm,'contacts':[{'vcard':_0x40c8ce}]}},{'quoted':global[_0x1a83fd(0x105)]});let _0x21c636='👋\x20Hai\x20*@'+_0x1b1702[_0x1a83fd(0xf5)]('@')[0x0]+_0x1a83fd(0xe8)+_0x45ff2d[_0x1a83fd(0xef)]['name']+_0x1a83fd(0xf3);await _0x45ff2d[_0x1a83fd(0xfa)](_0x1c14f0['chat'],_0x21c636,_0x128ca5,{'mentions':_0x45ff2d[_0x1a83fd(0xf6)](_0x21c636)});};handler[_0x2277ba(0xf9)]=[_0x2277ba(0xf8),_0x2277ba(0xf1)],handler[_0x2277ba(0xeb)]=['info'],handler['command']=/^(owner|pengembang|creator)$/i,module[_0x2277ba(0xf2)]=handler;
